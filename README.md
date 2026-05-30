@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Siddhi More
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Reliable+Software+Through+Testing+%26+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+Automation+Testing+%7C+API+Testing" alt="Typing SVG" />
 
 </div>
 
