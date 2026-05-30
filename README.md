@@ -2,9 +2,11 @@
 
 # Hi 👋, I'm Siddhi More
 
-### QA Engineer | Manual Testing | Automation Testing | API Testing
+### Building reliable software through testing and automation.
 
-Building reliable software through testing and automation.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Manual+Testing;Automation+Testing;API+Testing;Selenium+WebDriver;Postman+%7C+REST+Assured;GitHub+Actions" alt="Typing SVG" />
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=siddhiTechFlow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -25,16 +27,16 @@ Building reliable software through testing and automation.
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20Assured-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bugasura-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=selenium" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
 </p>
 
 ---
