@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://linkedin.com/in/siddhimore24" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" />
 </a>
 
 <a href="mailto:siddhi24104@gmail.com">
@@ -51,8 +51,6 @@
 <img src="https://skillicons.dev/icons?i=java" width="45" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=selenium" width="45" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=playwright" width="45" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=maven" width="45" height="45"/>
 
