@@ -6,23 +6,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=QA+Engineer;Manual+Testing;Automation+Testing;API+Testing;Selenium+WebDriver;Postman+%7C+REST+Assured;CI%2FCD+with+GitHub+Actions" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhiTechFlow&label=Profile%20views&color=0e75b6&style=flat" alt="siddhiTechFlow" />
 </p>
 
 ---
 
-- 🔭 Currently working on Selenium Automation Frameworks, Playwright, API Testing Projects, and CI/CD Integration using GitHub Actions
+🔭 Currently working on Selenium Automation Frameworks, Playwright, API Testing Projects, and CI/CD Integration using GitHub Actions
 
-- 🌱 Currently learning Advanced Selenium Frameworks, REST Assured, Jenkins, CI/CD, and Playwright
+🌱 Currently learning Advanced Selenium Frameworks, REST Assured, Jenkins, and Playwright
 
-- 👯 Looking to collaborate on QA Automation, API Testing, and CI/CD-based Testing Projects
+👯 Looking to collaborate on QA Automation, API Testing, and CI/CD-based Testing Projects
 
-- 💬 Ask me about Manual Testing, Selenium Automation, API Testing, Postman, TestNG, Jira, and Bugasura
+💬 Ask me about Manual Testing, Selenium WebDriver, API Testing, Postman, TestNG, Jira, and Bug Tracking
 
-- 📫 Reach me at **siddhi24104@gmail.com**
+📫 Reach me at **siddhi24104@gmail.com**
 
-- ⚡ Fun fact: I enjoy finding bugs and improving software quality through testing & automation
+⚡ Fun fact: I enjoy finding bugs and improving software quality through testing & automation
 
 ---
 
@@ -43,36 +43,41 @@
 <h3 align="left">🛠️ Tech Stack & Tools</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,git,jenkins,postgres,postman" />
 
-<img src="https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge&logo=selenium" />
+<img src="https://skillicons.dev/icons?i=java,git,github,jenkins,maven,postgres,postman,vscode" />
 
-<img src="https://img.shields.io/badge/TestNG-Framework-orange?style=for-the-badge" />
+<br><br>
 
-<img src="https://img.shields.io/badge/Jira-Bug_Tracking-blue?style=for-the-badge&logo=jira" />
+<img src="https://img.shields.io/badge/Selenium-WebDriver-brightgreen?style=for-the-badge&logo=selenium" />
+
+<img src="https://img.shields.io/badge/TestNG-Testing-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Jira-BugTracking-blue?style=for-the-badge&logo=jira" />
+
 </p>
 
 ---
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- 🔹 Selenium Automation Framework  
-- 🔹 FakeStore API Testing  
-- 🔹 OpenCart Manual Testing  
-- 🔹 NopCommerce Testing  
+🔹 [Selenium Automation Framework](https://github.com/siddhiTechFlow/E-Commerce-Automation-Testing-https-automationexercise.com-)
+
+🔹 [FakeStore API Testing](https://github.com/siddhiTechFlow/FakeStore_API_Testing)
+
+🔹 [OpenCart Manual Testing](https://github.com/siddhiTechFlow/opencart-manual-testing-project)
+
+🔹 [NopCommerce Testing](https://github.com/siddhiTechFlow/nopcommerce-manual-testing-project)
 
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=siddhiTechFlow&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhiTechFlow&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiTechFlow&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhiTechFlow&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhiTechFlow&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhiTechFlow&theme=tokyonight&hide_border=true" />
 </p>
